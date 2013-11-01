@@ -64,6 +64,7 @@ DEPENDENCIES
   guard
   guard-rspec
   haml
+  rack
   rspec
   shotgun
   sinatra
