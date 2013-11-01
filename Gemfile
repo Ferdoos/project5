@@ -4,6 +4,7 @@ ruby "2.0.0"
 gem 'sinatra'
 gem 'twilio-ruby'
 gem 'haml'
+gem 'rackup'
 
 group :development do
   gem 'rspec'
